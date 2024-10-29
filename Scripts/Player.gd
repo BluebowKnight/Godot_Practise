@@ -5,7 +5,9 @@ extends CharacterBody2D
 @export var speed = 100.0
 @export var gravity = 200.0
 @export var jump_height = -100
+
 var is_attacking = false
+var is_climbing = false
 
 func _physics_process(delta):
 	velocity.y += gravity * delta
@@ -36,6 +38,19 @@ func _input(event):
 	if event.is_action_pressed('ui_attack'):
 		is_attacking = true
 		$AnimatedSprite2D.play('attack')
+	
+	if event.is_action_pressed("ui_jump") and is_on_floor():
+		$AnimatedSprite2D.play("jump")
+		
+	if is_climbing == true:
+		$AnimatedSprite2D.play("climb")
+		gravity = 100
+		velocity.y = -200
+		
+	else:
+		gravity = 200
+		is_climbing = false
+
 '
 const SPEED = 100.0
 const JUMP_VELOCITY = -400.0
