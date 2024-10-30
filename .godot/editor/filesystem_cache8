@@ -1,12 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1730192700
+::res://::1730250023
 icon.svg::CompressedTexture2D::8670099884159918493::1730176838::1730192701::1::::<><>::
-::res://Assets/::1730187410
+::res://Assets/::1730192701
 clock.png::CompressedTexture2D::9165859444717417096::1730176968::1730192701::1::::<><>::
-::res://Assets/Font/::1730176974
+::res://Assets/Font/::1730192700
 QuinqueFive.otf::FontFile::2216885115731471174::1730176968::1730192700::1::::<><>::
 QuinqueFive.ttf::FontFile::6049862292905396987::1730176968::1730192700::1::::<><>::
-::res://Assets/Free Basic Cursor Pack/::1730176975
+::res://Assets/Free Basic Cursor Pack/::1730192701
 Free Basic Cursor Pack Square.jpg::CompressedTexture2D::1705619062703084783::1730176968::1730192701::1::::<><>::
 Win95Def.png::CompressedTexture2D::1607201475279043741::1730176968::1730192701::1::::<><>::
 Win95DefBlack.png::CompressedTexture2D::8600280031277064682::1730176968::1730192701::1::::<><>::
@@ -35,13 +35,13 @@ Win95ZInBlack.png::CompressedTexture2D::8626996798615004949::1730176968::1730192
 Win95ZOut.png::CompressedTexture2D::3031296819315088964::1730176968::1730192701::1::::<><>::
 Win95ZOutBlack.png::CompressedTexture2D::8624574194473173210::1730176968::1730192701::1::::<><>::
 ::res://Assets/heart/::1730176968
-::res://Assets/heart/heart/::1730176975
+::res://Assets/heart/heart/::1730192701
 sprite_0.png::CompressedTexture2D::6239809494437223767::1730176968::1730192701::1::::<><>::
 sprite_1.png::CompressedTexture2D::6150005124328546520::1730176968::1730192701::1::::<><>::
 sprite_2.png::CompressedTexture2D::4670002537824996901::1730176968::1730192701::1::::<><>::
 sprite_3.png::CompressedTexture2D::667383852111244774::1730176968::1730192701::1::::<><>::
 sprite_4.png::CompressedTexture2D::7188921779681601827::1730176968::1730192701::1::::<><>::
-::res://Assets/heart/heart bar/::1730176975
+::res://Assets/heart/heart bar/::1730192701
 sprite_0.png::CompressedTexture2D::7716644064704532700::1730176968::1730192701::1::::<><>::
 sprite_1.png::CompressedTexture2D::8520413680663783627::1730176968::1730192701::1::::<><>::
 sprite_2.png::CompressedTexture2D::1464255335925493642::1730176968::1730192701::1::::<><>::
@@ -49,9 +49,9 @@ sprite_3.png::CompressedTexture2D::3096486249875351159::1730176968::1730192701::
 sprite_4.png::CompressedTexture2D::4089872799842149201::1730176968::1730192701::1::::<><>::
 ::res://Assets/Kings and Pigs/::1730176968
 ::res://Assets/Kings and Pigs/Aseprite/::1730176968
-::res://Assets/Kings and Pigs/Sprites/::1730176974
+::res://Assets/Kings and Pigs/Sprites/::1730192700
 Kings and Pigs.png::CompressedTexture2D::5082403465608262149::1730176971::1730192700::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/01-King Human/::1730176975
+::res://Assets/Kings and Pigs/Sprites/01-King Human/::1730192701
 Attack (78x58).png::CompressedTexture2D::1846948886923015502::1730176969::1730192701::1::::<><>::
 Dead (78x58).png::CompressedTexture2D::1291790538027695509::1730176969::1730192701::1::::<><>::
 Door In (78x58).png::CompressedTexture2D::434982197632440239::1730176969::1730192701::1::::<><>::
@@ -63,7 +63,7 @@ Idle (78x58)2.png::CompressedTexture2D::9150981123988829188::1730176969::1730192
 Idle (78x58).png::CompressedTexture2D::8156886860997412846::1730176969::1730192701::1::::<><>::
 Jump (78x58).png::CompressedTexture2D::8290334110512850060::1730176969::1730192701::1::::<><>::
 Run (78x58).png::CompressedTexture2D::6898649839819409899::1730176969::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/02-King Pig/::1730176975
+::res://Assets/Kings and Pigs/Sprites/02-King Pig/::1730192701
 Attack (38x28).png::CompressedTexture2D::9215909285244213239::1730176971::1730192701::1::::<><>::
 Dead (38x28).png::CompressedTexture2D::2285955579040605514::1730176971::1730192701::1::::<><>::
 Fall (38x28).png::CompressedTexture2D::4819108488675809624::1730176971::1730192701::1::::<><>::
@@ -72,7 +72,7 @@ Hit (38x28).png::CompressedTexture2D::8479469409798619701::1730176971::173019270
 Idle (38x28).png::CompressedTexture2D::7774336336868751466::1730176971::1730192701::1::::<><>::
 Jump (38x28).png::CompressedTexture2D::7876040742843746572::1730176971::1730192701::1::::<><>::
 Run (38x28).png::CompressedTexture2D::1353164598904504057::1730176971::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/03-Pig/::1730176975
+::res://Assets/Kings and Pigs/Sprites/03-Pig/::1730192701
 Attack (34x28).png::CompressedTexture2D::3100419568896180966::1730176971::1730192701::1::::<><>::
 Dead (34x28).png::CompressedTexture2D::4087492606050763710::1730176971::1730192701::1::::<><>::
 Fall (34x28).png::CompressedTexture2D::7654300125573903162::1730176971::1730192701::1::::<><>::
@@ -81,17 +81,17 @@ Hit (34x28).png::CompressedTexture2D::6958476207053179838::1730176971::173019270
 Idle (34x28).png::CompressedTexture2D::4087604116143206131::1730176971::1730192701::1::::<><>::
 Jump (34x28).png::CompressedTexture2D::5931148127355546684::1730176971::1730192701::1::::<><>::
 Run (34x28).png::CompressedTexture2D::8068533438177602429::1730176971::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/04-Pig Throwing a Box/::1730176975
+::res://Assets/Kings and Pigs/Sprites/04-Pig Throwing a Box/::1730192701
 Idle (26x30).png::CompressedTexture2D::7780072377678789167::1730176971::1730192701::1::::<><>::
 Picking Box (26x30).png::CompressedTexture2D::8248301332627966568::1730176971::1730192701::1::::<><>::
 Run (26x30).png::CompressedTexture2D::8735607271951102258::1730176971::1730192701::1::::<><>::
 Throwing Box (26x30).png::CompressedTexture2D::2119616356368884633::1730176971::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/05-Pig Thowing a Bomb/::1730176975
+::res://Assets/Kings and Pigs/Sprites/05-Pig Thowing a Bomb/::1730192701
 Idle (26x26).png::CompressedTexture2D::7036089859501930447::1730176968::1730192701::1::::<><>::
 Picking Bomb (26x26).png::CompressedTexture2D::2879243288132657979::1730176968::1730192701::1::::<><>::
 Run (26x26).png::CompressedTexture2D::55943569541151602::1730176968::1730192701::1::::<><>::
 Throwing Boom (26x26).png::CompressedTexture2D::2570718092926515313::1730176968::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/06-Pig Hide in the Box/::1730176975
+::res://Assets/Kings and Pigs/Sprites/06-Pig Hide in the Box/::1730192701
 Fall (26x20).png::CompressedTexture2D::9081357189116423899::1730176971::1730192701::1::::<><>::
 Ground (26x20).png::CompressedTexture2D::7400071143323467334::1730176971::1730192701::1::::<><>::
 Jump (26x20).png::CompressedTexture2D::6208476930686718006::1730176971::1730192701::1::::<><>::
@@ -99,9 +99,9 @@ Jump Anticipation (26x20).png::CompressedTexture2D::357697197192941297::17301769
 Looking Out (26x20).png::CompressedTexture2D::4669690579323854119::1730176971::1730192701::1::::<><>::
 ::res://Assets/Kings and Pigs/Sprites/7-Objects/::1730176971
 ::res://Assets/Kings and Pigs/Sprites/7-Objects/1-BOMB/::1730176971
-::res://Assets/Kings and Pigs/Sprites/7-Objects/1-BOMB/1-Bomb Off/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/1-BOMB/1-Bomb Off/::1730192701
 1.png::CompressedTexture2D::995043842573048549::1730176970::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/1-BOMB/2-Bomb On/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/1-BOMB/2-Bomb On/::1730192701
 1.png::CompressedTexture2D::147616133358125326::1730176971::1730192701::1::::<><>::
 2.png::CompressedTexture2D::1119008236326904840::1730176971::1730192701::1::::<><>::
 3.png::CompressedTexture2D::6161749839031447469::1730176971::1730192701::1::::<><>::
@@ -112,7 +112,7 @@ Looking Out (26x20).png::CompressedTexture2D::4669690579323854119::1730176971::1
 8.png::CompressedTexture2D::2501484570475561984::1730176971::1730192701::1::::<><>::
 9.png::CompressedTexture2D::5993128300983162737::1730176971::1730192701::1::::<><>::
 10.png::CompressedTexture2D::995980306845288487::1730176971::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/1-BOMB/3-Explotion/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/1-BOMB/3-Explotion/::1730192701
 1.png::CompressedTexture2D::1675837152733827596::1730176971::1730192701::1::::<><>::
 2.png::CompressedTexture2D::993038154383362220::1730176971::1730192701::1::::<><>::
 3.png::CompressedTexture2D::657762402636702063::1730176971::1730192701::1::::<><>::
@@ -123,22 +123,22 @@ Looking Out (26x20).png::CompressedTexture2D::4669690579323854119::1730176971::1
 8.png::CompressedTexture2D::8652987714797690226::1730176970::1730192701::1::::<><>::
 9.png::CompressedTexture2D::2092487073840731982::1730176970::1730192701::1::::<><>::
 ::res://Assets/Kings and Pigs/Sprites/7-Objects/2-Door/::1730176971
-::res://Assets/Kings and Pigs/Sprites/7-Objects/2-Door/1-Closed/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/2-Door/1-Closed/::1730192701
 1.png::CompressedTexture2D::754354539599243536::1730176971::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/2-Door/2-Opening/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/2-Door/2-Opening/::1730192701
 1.png::CompressedTexture2D::2504798965064396193::1730176971::1730192701::1::::<><>::
 2.png::CompressedTexture2D::2626934804289484703::1730176971::1730192701::1::::<><>::
 3.png::CompressedTexture2D::8968269153967632645::1730176971::1730192701::1::::<><>::
 4.png::CompressedTexture2D::7409763990168373673::1730176971::1730192701::1::::<><>::
 5.png::CompressedTexture2D::4761406339189180597::1730176971::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/2-Door/3-Closing/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/2-Door/3-Closing/::1730192701
 1.png::CompressedTexture2D::1141667050617868618::1730176971::1730192701::1::::<><>::
 2.png::CompressedTexture2D::7405763146771861334::1730176971::1730192701::1::::<><>::
 3.png::CompressedTexture2D::3983819701466059556::1730176971::1730192701::1::::<><>::
 4.png::CompressedTexture2D::6383747808659956144::1730176971::1730192701::1::::<><>::
 5.png::CompressedTexture2D::8676373497254965636::1730176971::1730192701::1::::<><>::
 ::res://Assets/Kings and Pigs/Sprites/7-Objects/3-Bomb Bar/::1730176971
-::res://Assets/Kings and Pigs/Sprites/7-Objects/3-Bomb Bar/1-Charging Bar/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/3-Bomb Bar/1-Charging Bar/::1730192701
 1.png::CompressedTexture2D::1927359674141824449::1730176971::1730192701::1::::<><>::
 2.png::CompressedTexture2D::6832213874665953375::1730176971::1730192701::1::::<><>::
 3.png::CompressedTexture2D::5904141073303218667::1730176971::1730192701::1::::<><>::
@@ -150,29 +150,29 @@ Looking Out (26x20).png::CompressedTexture2D::4669690579323854119::1730176971::1
 9.png::CompressedTexture2D::2964998151490654309::1730176971::1730192701::1::::<><>::
 10.png::CompressedTexture2D::4594271336100686294::1730176971::1730192701::1::::<><>::
 11.png::CompressedTexture2D::7706420211665094512::1730176971::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/3-Bomb Bar/2-Full (Intermitent)/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/3-Bomb Bar/2-Full (Intermitent)/::1730192701
 1.png::CompressedTexture2D::7971016780792978084::1730176971::1730192701::1::::<><>::
 2.png::CompressedTexture2D::3138157978333939889::1730176971::1730192701::1::::<><>::
 3.png::CompressedTexture2D::1312466180110329207::1730176971::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/3-Bomb Bar/3-Closing/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/3-Bomb Bar/3-Closing/::1730192701
 1.png::CompressedTexture2D::5346128528151249076::1730176971::1730192701::1::::<><>::
 ::res://Assets/Kings and Pigs/Sprites/7-Objects/4-Interrogation Dialog/::1730176971
-::res://Assets/Kings and Pigs/Sprites/7-Objects/4-Interrogation Dialog/1-Opening/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/4-Interrogation Dialog/1-Opening/::1730192701
 1.png::CompressedTexture2D::7326373589975581158::1730176971::1730192701::1::::<><>::
 2.png::CompressedTexture2D::8819265515361871250::1730176971::1730192701::1::::<><>::
 3.png::CompressedTexture2D::4064213247042785944::1730176971::1730192701::1::::<><>::
 4.png::CompressedTexture2D::2196100366451532226::1730176971::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/4-Interrogation Dialog/2-Closing/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/4-Interrogation Dialog/2-Closing/::1730192701
 1.png::CompressedTexture2D::1675770529214290078::1730176971::1730192701::1::::<><>::
 ::res://Assets/Kings and Pigs/Sprites/7-Objects/5-Exclamation Dialog/::1730176969
-::res://Assets/Kings and Pigs/Sprites/7-Objects/5-Exclamation Dialog/1-Opening/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/5-Exclamation Dialog/1-Opening/::1730192701
 1.png::CompressedTexture2D::804873107737237629::1730176969::1730192701::1::::<><>::
 2.png::CompressedTexture2D::8845917546930044419::1730176969::1730192701::1::::<><>::
 3.png::CompressedTexture2D::8429730168335381972::1730176969::1730192701::1::::<><>::
 4.png::CompressedTexture2D::119887525953841344::1730176969::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/5-Exclamation Dialog/2-Closing/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/5-Exclamation Dialog/2-Closing/::1730192701
 1.png::CompressedTexture2D::1240453068713645274::1730176969::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/6-Candle/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/6-Candle/::1730192701
 1.png::CompressedTexture2D::5709927528138950887::1730176969::1730192701::1::::<><>::
 2.png::CompressedTexture2D::5806974438287404789::1730176969::1730192701::1::::<><>::
 3.png::CompressedTexture2D::7193243086858313106::1730176969::1730192701::1::::<><>::
@@ -181,18 +181,18 @@ Looking Out (26x20).png::CompressedTexture2D::4669690579323854119::1730176971::1
 6.png::CompressedTexture2D::8154758717018077388::1730176969::1730192701::1::::<><>::
 7.png::CompressedTexture2D::4465689001122754583::1730176969::1730192701::1::::<><>::
 8.png::CompressedTexture2D::2722546570973523944::1730176969::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/7-Candle Light/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/7-Candle Light/::1730192701
 1.png::CompressedTexture2D::8076553473319613827::1730176970::1730192701::1::::<><>::
 2.png::CompressedTexture2D::641642044670572663::1730176970::1730192701::1::::<><>::
 3.png::CompressedTexture2D::5231030116346500094::1730176970::1730192701::1::::<><>::
 4.png::CompressedTexture2D::8311963442981021724::1730176970::1730192701::1::::<><>::
 5.png::CompressedTexture2D::5333760483378244409::1730176970::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/8-Window Light/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/8-Window Light/::1730192701
 1.png::CompressedTexture2D::2974797665461625964::1730176970::1730192701::1::::<><>::
 2.png::CompressedTexture2D::8681506465468601359::1730176970::1730192701::1::::<><>::
 3.png::CompressedTexture2D::7047316245332029937::1730176970::1730192701::1::::<><>::
 4.png::CompressedTexture2D::6935465700429279351::1730176970::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/9-Small Chain/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/9-Small Chain/::1730192701
 1.png::CompressedTexture2D::820339383457250471::1730176969::1730192701::1::::<><>::
 2.png::CompressedTexture2D::3132454832581399::1730176969::1730192701::1::::<><>::
 3.png::CompressedTexture2D::3727868078077877371::1730176969::1730192701::1::::<><>::
@@ -203,7 +203,7 @@ Looking Out (26x20).png::CompressedTexture2D::4669690579323854119::1730176971::1
 8.png::CompressedTexture2D::7649387375308859991::1730176969::1730192701::1::::<><>::
 9.png::CompressedTexture2D::4104845332950810745::1730176969::1730192701::1::::<><>::
 10.png::CompressedTexture2D::3669398318282277744::1730176969::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/10-Big Chain/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/10-Big Chain/::1730192701
 1.png::CompressedTexture2D::3974364346305820762::1730176969::1730192701::1::::<><>::
 2.png::CompressedTexture2D::3086550987417358663::1730176969::1730192701::1::::<><>::
 3.png::CompressedTexture2D::4315439611522641311::1730176969::1730192701::1::::<><>::
@@ -214,10 +214,10 @@ Looking Out (26x20).png::CompressedTexture2D::4669690579323854119::1730176971::1
 8.png::CompressedTexture2D::280309710507867897::1730176969::1730192701::1::::<><>::
 9.png::CompressedTexture2D::6635411055834562012::1730176969::1730192701::1::::<><>::
 10.png::CompressedTexture2D::201392061635386184::1730176969::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/11-Health Bar/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/11-Health Bar/::1730192701
 Health Bar.png::CompressedTexture2D::8243075233677224176::1730176970::1730192701::1::::<><>::
 Heart.png::CompressedTexture2D::4295399840384370541::1730176970::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/12-Other Objects/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/12-Other Objects/::1730192701
 Barrel.png::CompressedTexture2D::6524734944620085719::1730176969::1730192701::1::::<><>::
 Blue Bottle.png::CompressedTexture2D::779866065850501882::1730176969::1730192701::1::::<><>::
 Chair.png::CompressedTexture2D::9022917998696994625::1730176969::1730192701::1::::<><>::
@@ -226,14 +226,14 @@ Red Bottle.png::CompressedTexture2D::9112042556112453792::1730176969::1730192701
 Skull.png::CompressedTexture2D::6080252462864862267::1730176969::1730192701::1::::<><>::
 Table.png::CompressedTexture2D::7014084336115720494::1730176969::1730192701::1::::<><>::
 Windows.png::CompressedTexture2D::5225582908111572609::1730176969::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/13-Run Particles/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/13-Run Particles/::1730192701
 1.png::CompressedTexture2D::8496065659128567631::1730176969::1730192701::1::::<><>::
 2.png::CompressedTexture2D::2667968957157512294::1730176969::1730192701::1::::<><>::
 3.png::CompressedTexture2D::5360913626053802971::1730176969::1730192701::1::::<><>::
 4.png::CompressedTexture2D::3546990943239033289::1730176969::1730192701::1::::<><>::
 5.png::CompressedTexture2D::3582644180280791602::1730176969::1730192701::1::::<><>::
 6.png::CompressedTexture2D::3802964835817279147::1730176969::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/::1730192701
 1.png::CompressedTexture2D::4516984247041612052::1730176970::1730192700::1::::<><>::
 2.png::CompressedTexture2D::3842996219771641364::1730176970::1730192700::1::::<><>::
 3.png::CompressedTexture2D::7745020154160380690::1730176970::1730192700::1::::<><>::
@@ -241,7 +241,7 @@ Windows.png::CompressedTexture2D::5225582908111572609::1730176969::1730192701::1
 5.png::CompressedTexture2D::3371874988588676760::1730176970::1730192700::1::::<><>::
 6.png::CompressedTexture2D::5807981778229395159::1730176970::1730192701::1::::<><>::
 ::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/Particles/::1730176970
-::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/Particles/1/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/Particles/1/::1730192701
 1_0.png::CompressedTexture2D::7189073813180139587::1730176970::1730192701::1::::<><>::
 1_1.png::CompressedTexture2D::2235463668421146088::1730176970::1730192701::1::::<><>::
 1_2.png::CompressedTexture2D::120505806594959104::1730176970::1730192701::1::::<><>::
@@ -257,7 +257,7 @@ Windows.png::CompressedTexture2D::5225582908111572609::1730176969::1730192701::1
 1_12.png::CompressedTexture2D::8786283985761664906::1730176970::1730192701::1::::<><>::
 1_13.png::CompressedTexture2D::8430379076137575330::1730176970::1730192701::1::::<><>::
 1_14.png::CompressedTexture2D::3728814937384658961::1730176970::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/Particles/2/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/Particles/2/::1730192701
 1_0.png::CompressedTexture2D::8895053478919268353::1730176970::1730192701::1::::<><>::
 1_1.png::CompressedTexture2D::1310169401888297929::1730176970::1730192701::1::::<><>::
 1_2.png::CompressedTexture2D::1012819790152499172::1730176970::1730192701::1::::<><>::
@@ -273,7 +273,7 @@ Windows.png::CompressedTexture2D::5225582908111572609::1730176969::1730192701::1
 1_12.png::CompressedTexture2D::1595976616520506800::1730176970::1730192701::1::::<><>::
 1_13.png::CompressedTexture2D::8721646074463042912::1730176970::1730192701::1::::<><>::
 1_14.png::CompressedTexture2D::1245534901063870961::1730176970::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/Particles/3/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/Particles/3/::1730192701
 1_0.png::CompressedTexture2D::2054517542715974527::1730176970::1730192701::1::::<><>::
 1_1.png::CompressedTexture2D::17795389756302285::1730176970::1730192701::1::::<><>::
 1_2.png::CompressedTexture2D::2586512298870374315::1730176970::1730192701::1::::<><>::
@@ -289,7 +289,7 @@ Windows.png::CompressedTexture2D::5225582908111572609::1730176969::1730192701::1
 1_12.png::CompressedTexture2D::6213157294194739307::1730176970::1730192701::1::::<><>::
 1_13.png::CompressedTexture2D::6371645713646301236::1730176970::1730192701::1::::<><>::
 1_14.png::CompressedTexture2D::3861000801460282627::1730176970::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/Particles/4/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/Particles/4/::1730192701
 1_0.png::CompressedTexture2D::2533195366231101460::1730176970::1730192701::1::::<><>::
 1_1.png::CompressedTexture2D::2338139355885529822::1730176970::1730192701::1::::<><>::
 1_2.png::CompressedTexture2D::5767754073347609238::1730176970::1730192701::1::::<><>::
@@ -305,7 +305,7 @@ Windows.png::CompressedTexture2D::5225582908111572609::1730176969::1730192701::1
 1_12.png::CompressedTexture2D::9041362191914578192::1730176970::1730192701::1::::<><>::
 1_13.png::CompressedTexture2D::1148223685948065633::1730176970::1730192701::1::::<><>::
 1_14.png::CompressedTexture2D::9034989368704430878::1730176970::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/Particles/5/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/Particles/5/::1730192701
 1_0.png::CompressedTexture2D::8188683792887818021::1730176970::1730192701::1::::<><>::
 1_1.png::CompressedTexture2D::6181768044286421832::1730176970::1730192701::1::::<><>::
 1_2.png::CompressedTexture2D::2520831571624040600::1730176970::1730192701::1::::<><>::
@@ -321,7 +321,7 @@ Windows.png::CompressedTexture2D::5225582908111572609::1730176969::1730192701::1
 1_12.png::CompressedTexture2D::1000349045056013727::1730176970::1730192701::1::::<><>::
 1_13.png::CompressedTexture2D::7966422515358609400::1730176970::1730192701::1::::<><>::
 1_14.png::CompressedTexture2D::6153661457039012233::1730176970::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/Particles/6/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/Particles/6/::1730192701
 1_0.png::CompressedTexture2D::4342402465758246601::1730176970::1730192701::1::::<><>::
 1_1.png::CompressedTexture2D::7208566231575406179::1730176970::1730192701::1::::<><>::
 1_2.png::CompressedTexture2D::480750186670419602::1730176970::1730192701::1::::<><>::
@@ -337,7 +337,7 @@ Windows.png::CompressedTexture2D::5225582908111572609::1730176969::1730192701::1
 1_12.png::CompressedTexture2D::5564767011656560334::1730176970::1730192701::1::::<><>::
 1_13.png::CompressedTexture2D::5065016450787394396::1730176970::1730192701::1::::<><>::
 1_14.png::CompressedTexture2D::3257076334305733413::1730176970::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/Particles/7/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/Particles/7/::1730192701
 1_0.png::CompressedTexture2D::6553706924307741670::1730176969::1730192701::1::::<><>::
 1_1.png::CompressedTexture2D::5981679720323511619::1730176969::1730192701::1::::<><>::
 1_2.png::CompressedTexture2D::5092618535670887367::1730176969::1730192701::1::::<><>::
@@ -353,7 +353,7 @@ Windows.png::CompressedTexture2D::5225582908111572609::1730176969::1730192701::1
 1_12.png::CompressedTexture2D::2307547561494255167::1730176969::1730192701::1::::<><>::
 1_13.png::CompressedTexture2D::5727282816290802055::1730176969::1730192701::1::::<><>::
 1_14.png::CompressedTexture2D::8569998359909106686::1730176969::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/Particles/8/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/Particles/8/::1730192701
 1_0.png::CompressedTexture2D::7151622576989360937::1730176970::1730192701::1::::<><>::
 1_1.png::CompressedTexture2D::8712551622235346391::1730176970::1730192701::1::::<><>::
 1_2.png::CompressedTexture2D::8808012186442923653::1730176970::1730192701::1::::<><>::
@@ -369,7 +369,7 @@ Windows.png::CompressedTexture2D::5225582908111572609::1730176969::1730192701::1
 1_12.png::CompressedTexture2D::7989591544439541908::1730176970::1730192701::1::::<><>::
 1_13.png::CompressedTexture2D::6274447157797662334::1730176970::1730192701::1::::<><>::
 1_14.png::CompressedTexture2D::7005017790093910980::1730176970::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/Particles/9/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/14-Jump Particles/Particles/9/::1730192701
 1_0.png::CompressedTexture2D::6750274458867756058::1730176969::1730192701::1::::<><>::
 1_1.png::CompressedTexture2D::1624490117025248803::1730176969::1730192701::1::::<><>::
 1_2.png::CompressedTexture2D::6402717909959858535::1730176969::1730192701::1::::<><>::
@@ -385,7 +385,7 @@ Windows.png::CompressedTexture2D::5225582908111572609::1730176969::1730192701::1
 1_12.png::CompressedTexture2D::571886872768750003::1730176969::1730192700::1::::<><>::
 1_13.png::CompressedTexture2D::3408024534776690924::1730176969::1730192700::1::::<><>::
 1_14.png::CompressedTexture2D::7412363454364554202::1730176969::1730192700::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/15-Fall Particles/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/15-Fall Particles/::1730192701
 1.png::CompressedTexture2D::3223532919141684599::1730176969::1730192701::1::::<><>::
 2.png::CompressedTexture2D::4706836053844022079::1730176969::1730192701::1::::<><>::
 3.png::CompressedTexture2D::7829152361433276460::1730176969::1730192701::1::::<><>::
@@ -393,9 +393,9 @@ Windows.png::CompressedTexture2D::5225582908111572609::1730176969::1730192701::1
 5.png::CompressedTexture2D::7451141604690411770::1730176969::1730192701::1::::<><>::
 6.png::CompressedTexture2D::4484186762526186395::1730176969::1730192701::1::::<><>::
 ::res://Assets/Kings and Pigs/Sprites/7-Objects/16-Enemy-Cannon/::1730176969
-::res://Assets/Kings and Pigs/Sprites/7-Objects/16-Enemy-Cannon/1-Idle/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/16-Enemy-Cannon/1-Idle/::1730192701
 1.png::CompressedTexture2D::7591362714617079044::1730176969::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/16-Enemy-Cannon/2-Attack/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/16-Enemy-Cannon/2-Attack/::1730192700
 1.png::CompressedTexture2D::2216028688755330798::1730176969::1730192700::1::::<><>::
 2.png::CompressedTexture2D::7571984721141595631::1730176969::1730192700::1::::<><>::
 3.png::CompressedTexture2D::6314375431031447208::1730176969::1730192700::1::::<><>::
@@ -405,10 +405,10 @@ Windows.png::CompressedTexture2D::5225582908111572609::1730176969::1730192701::1
 7.png::CompressedTexture2D::1663975679279642464::1730176969::1730192700::1::::<><>::
 8.png::CompressedTexture2D::359919803994524906::1730176969::1730192700::1::::<><>::
 9.png::CompressedTexture2D::7602725940628944272::1730176969::1730192700::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/16-Enemy-Cannon/3-Cannon Ball/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/16-Enemy-Cannon/3-Cannon Ball/::1730192700
 1.png::CompressedTexture2D::5071649132585026181::1730176969::1730192700::1::::<><>::
 ::res://Assets/Kings and Pigs/Sprites/7-Objects/17-Heart/::1730176971
-::res://Assets/Kings and Pigs/Sprites/7-Objects/17-Heart/1-Idle/::1730176975
+::res://Assets/Kings and Pigs/Sprites/7-Objects/17-Heart/1-Idle/::1730192701
 1.png::CompressedTexture2D::6492293445821440256::1730176971::1730192700::1::::<><>::
 2.png::CompressedTexture2D::1048370097540668094::1730176971::1730192700::1::::<><>::
 3.png::CompressedTexture2D::985959178318088054::1730176971::1730192700::1::::<><>::
@@ -431,35 +431,35 @@ Windows.png::CompressedTexture2D::5225582908111572609::1730176969::1730192701::1
 20.png::CompressedTexture2D::1619554967594995471::1730176971::1730192701::1::::<><>::
 21.png::CompressedTexture2D::179546778487236549::1730176971::1730192701::1::::<><>::
 22.png::CompressedTexture2D::577412054467849026::1730176971::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/7-Objects/17-Heart/2-Live+1/::1730176974
+::res://Assets/Kings and Pigs/Sprites/7-Objects/17-Heart/2-Live+1/::1730192701
 1.png::CompressedTexture2D::8766487430333126758::1730176971::1730192701::1::::<><>::
 2.png::CompressedTexture2D::6625658949175606737::1730176971::1730192701::1::::<><>::
 3.png::CompressedTexture2D::5676020432464390277::1730176971::1730192701::1::::<><>::
 4.png::CompressedTexture2D::3359615156637871705::1730176971::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/07-Pig With a Match/::1730176974
+::res://Assets/Kings and Pigs/Sprites/07-Pig With a Match/::1730192701
 Lighting the Cannon (26x18).png::CompressedTexture2D::7846497535770645711::1730176969::1730192701::1::::<><>::
 Lighting the Match (26x18).png::CompressedTexture2D::7543773562539309933::1730176969::1730192701::1::::<><>::
 Match On (26x18).png::CompressedTexture2D::5228616464329636828::1730176969::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/08-Box/::1730176974
+::res://Assets/Kings and Pigs/Sprites/08-Box/::1730192701
 Box Pieces 1.png::CompressedTexture2D::7581647289595262885::1730176969::1730192701::1::::<><>::
 Box Pieces 2.png::CompressedTexture2D::6143265685403756882::1730176969::1730192701::1::::<><>::
 Box Pieces 3.png::CompressedTexture2D::8132315310263668803::1730176969::1730192701::1::::<><>::
 Box Pieces 4.png::CompressedTexture2D::6937530762897589307::1730176969::1730192701::1::::<><>::
 Hit.png::CompressedTexture2D::2530486283922824167::1730176969::1730192701::1::::<><>::
 Idle.png::CompressedTexture2D::6321123072590531559::1730176969::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/09-Bomb/::1730176974
+::res://Assets/Kings and Pigs/Sprites/09-Bomb/::1730192701
 Bomb Off.png::CompressedTexture2D::3055748293095714347::1730176969::1730192701::1::::<><>::
 Bomb On (52x56).png::CompressedTexture2D::4927721300589506937::1730176969::1730192701::1::::<><>::
 Boooooom (52x56).png::CompressedTexture2D::3246944330881321993::1730176969::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/10-Cannon/::1730176974
+::res://Assets/Kings and Pigs/Sprites/10-Cannon/::1730192701
 Cannon Ball.png::CompressedTexture2D::3316080682336701175::1730176968::1730192701::1::::<><>::
 Idle.png::CompressedTexture2D::1809045688852297074::1730176968::1730192701::1::::<><>::
 Shoot (44x28).png::CompressedTexture2D::5268886204993961271::1730176968::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/11-Door/::1730176974
+::res://Assets/Kings and Pigs/Sprites/11-Door/::1730192701
 Closiong (46x56).png::CompressedTexture2D::7903964219448701767::1730176968::1730192701::1::::<><>::
 Idle.png::CompressedTexture2D::3183070000166988525::1730176968::1730192701::1::::<><>::
 Opening (46x56).png::CompressedTexture2D::4144307112865644580::1730176968::1730192701::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/12-Live and Coins/::1730176974
+::res://Assets/Kings and Pigs/Sprites/12-Live and Coins/::1730192701
 Big Diamond Hit (18x14).png::CompressedTexture2D::23368330422222267::1730176969::1730192701::1::::<><>::
 Big Diamond Idle (18x14).png::CompressedTexture2D::8722631170806362385::1730176969::1730192701::1::::<><>::
 Big Heart Hit (18x14).png::CompressedTexture2D::8003882184027819389::1730176969::1730192701::1::::<><>::
@@ -469,7 +469,7 @@ Numbers (6x8).png::CompressedTexture2D::6432826653997910492::1730176969::1730192
 Small Diamond (18x14).png::CompressedTexture2D::407521760378746117::1730176969::1730192700::1::::<><>::
 Small Heart Hit (18x14).png::CompressedTexture2D::3120814891515122090::1730176969::1730192700::1::::<><>::
 Small Heart Idle (18x14).png::CompressedTexture2D::3366507286001647982::1730176969::1730192700::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/13-Dialogue Boxes/::1730176974
+::res://Assets/Kings and Pigs/Sprites/13-Dialogue Boxes/::1730192700
 !!! In (24x8).png::CompressedTexture2D::2618282982645207864::1730176968::1730192700::1::::<><>::
 !!! Out (24x8).png::CompressedTexture2D::6334979832398572809::1730176969::1730192700::1::::<><>::
 Attack In (24x8).png::CompressedTexture2D::8285482476910961478::1730176968::1730192700::1::::<><>::
@@ -490,28 +490,28 @@ No In (24x8).png::CompressedTexture2D::5521611857179729847::1730176968::17301927
 No Out (24x8).png::CompressedTexture2D::2845605357809002755::1730176968::1730192700::1::::<><>::
 WTF In (24x8).png::CompressedTexture2D::6636627659785799423::1730176968::1730192700::1::::<><>::
 WTF Out (24x8).png::CompressedTexture2D::4587869696996937527::1730176968::1730192700::1::::<><>::
-::res://Assets/Kings and Pigs/Sprites/14-TileSets/::1730176974
+::res://Assets/Kings and Pigs/Sprites/14-TileSets/::1730192700
 Decorations (32x32).png::CompressedTexture2D::1305009757275891199::1730176969::1730192700::1::::<><>::
 Terrain (32x32).png::CompressedTexture2D::1827194171160186457::1730176969::1730192700::1::::<><>::
 ::res://Assets/lightning bolt/::1730176971
-::res://Assets/lightning bolt/lightning bolt/::1730176975
+::res://Assets/lightning bolt/lightning bolt/::1730192700
 sprite_0.png::CompressedTexture2D::5696045850992013463::1730176971::1730192700::1::::<><>::
 sprite_1.png::CompressedTexture2D::3240262174249280826::1730176971::1730192700::1::::<><>::
 sprite_2.png::CompressedTexture2D::8418266882076401444::1730176971::1730192700::1::::<><>::
 sprite_3.png::CompressedTexture2D::8653713552525707514::1730176971::1730192700::1::::<><>::
 sprite_4.png::CompressedTexture2D::358925597510572103::1730176971::1730192700::1::::<><>::
-::res://Assets/lightning bolt/lightning bolt bar/::1730176975
+::res://Assets/lightning bolt/lightning bolt bar/::1730192700
 sprite_0.png::CompressedTexture2D::3616958094620260030::1730176971::1730192700::1::::<><>::
 sprite_1.png::CompressedTexture2D::4942024953837608880::1730176971::1730192700::1::::<><>::
 sprite_2.png::CompressedTexture2D::3746533638070775989::1730176971::1730192700::1::::<><>::
 sprite_3.png::CompressedTexture2D::6533296038575693822::1730176971::1730192700::1::::<><>::
 sprite_4.png::CompressedTexture2D::2521809315649368361::1730176971::1730192700::1::::<><>::
-::res://Assets/Music/::1730176974
+::res://Assets/Music/::1730192700
 8bit-music-for-game-68698.mp3::AudioStreamMP3::4118533567060280764::1730176972::1730192700::1::::<><>::
 arguement-loop-27901.mp3::AudioStreamMP3::1163495353145108030::1730176971::1730192700::1::::<><>::
 kl-peach-game-over-iii-142453.mp3::AudioStreamMP3::3449346017772671359::1730176972::1730192700::1::::<><>::
 ::res://Assets/Music/Retro Sounds/::1730176971
-::res://Assets/Music/Retro Sounds/audio effects retro/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/::1730192701
 Blade (need edit).wav::AudioStreamWAV::1819356128457244162::1730176971::1730192701::1::::<><>::
 Blade.wav::AudioStreamWAV::7594444346597810280::1730176972::1730192701::1::::<><>::
 menu select.wav::AudioStreamWAV::1780164392842485227::1730176971::1730192701::1::::<><>::
@@ -519,7 +519,7 @@ need edit 2.wav::AudioStreamWAV::5261072072488209231::1730176971::1730192701::1:
 need edit.wav::AudioStreamWAV::6627206303564262856::1730176971::1730192701::1::::<><>::
 select sound.wav::AudioStreamWAV::7097330156697397276::1730176972::1730192701::1::::<><>::
 ::res://Assets/Music/Retro Sounds/audio effects retro/Animal and caracters/::1730176972
-::res://Assets/Music/Retro Sounds/audio effects retro/Animal and caracters/animal/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/Animal and caracters/animal/::1730192702
 angry animal.wav::AudioStreamWAV::1691023405010930717::1730176972::1730192701::1::::<><>::
 animal curious.wav::AudioStreamWAV::6384834653211373927::1730176972::1730192701::1::::<><>::
 animal friendly.wav::AudioStreamWAV::357120969094293310::1730176972::1730192701::1::::<><>::
@@ -531,7 +531,7 @@ bird 4.wav::AudioStreamWAV::2175285827141988296::1730176972::1730192702::1::::<>
 bird 5.wav::AudioStreamWAV::2484552580884688047::1730176972::1730192702::1::::<><>::
 happy bird.wav::AudioStreamWAV::6391727522349453753::1730176972::1730192702::1::::<><>::
 ::res://Assets/Music/Retro Sounds/audio effects retro/Animal and caracters/characters/::1730176972
-::res://Assets/Music/Retro Sounds/audio effects retro/Animal and caracters/characters/actions and reactions interactions/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/Animal and caracters/characters/actions and reactions interactions/::1730192702
 cool thing.wav::AudioStreamWAV::6229984148564539806::1730176972::1730192702::1::::<><>::
 Dialog voice 1.wav::AudioStreamWAV::5222555894406612218::1730176972::1730192702::1::::<><>::
 embarrassed.wav::AudioStreamWAV::8261511653364029925::1730176972::1730192702::1::::<><>::
@@ -539,38 +539,38 @@ fall.wav::AudioStreamWAV::2876527935650239998::1730176972::1730192702::1::::<><>
 jump.wav::AudioStreamWAV::3686919634318417825::1730176972::1730192702::1::::<><>::
 question.wav::AudioStreamWAV::1310456192933278016::1730176972::1730192702::1::::<><>::
 taking item.wav::AudioStreamWAV::1504664668824801416::1730176972::1730192702::1::::<><>::
-::res://Assets/Music/Retro Sounds/audio effects retro/Animal and caracters/characters/actions and reactions interactions/attack/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/Animal and caracters/characters/actions and reactions interactions/attack/::1730192702
 attack variation.wav::AudioStreamWAV::3849235484758877560::1730176972::1730192702::1::::<><>::
 hit 1 fast attack.wav::AudioStreamWAV::5407474586306581072::1730176972::1730192702::1::::<><>::
 hit 2 medio attack.wav::AudioStreamWAV::9123991914113384941::1730176972::1730192702::1::::<><>::
 hit 3 strong attack.wav::AudioStreamWAV::3119562858013282345::1730176972::1730192702::1::::<><>::
-::res://Assets/Music/Retro Sounds/audio effects retro/Animal and caracters/characters/actions and reactions interactions/Dialogs sounds/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/Animal and caracters/characters/actions and reactions interactions/Dialogs sounds/::1730192702
 Dialog voice 2.wav::AudioStreamWAV::2024245986813094813::1730176972::1730192702::1::::<><>::
 Dialog voice 3.wav::AudioStreamWAV::6753962932291120265::1730176972::1730192702::1::::<><>::
 Dialog voice 4.wav::AudioStreamWAV::5154049479231117100::1730176972::1730192702::1::::<><>::
 Dialog voice 5.wav::AudioStreamWAV::8397039329816991775::1730176972::1730192702::1::::<><>::
-::res://Assets/Music/Retro Sounds/audio effects retro/Animal and caracters/characters/actions and reactions interactions/walk/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/Animal and caracters/characters/actions and reactions interactions/walk/::1730192702
 i recommend to check the volume.txt::TextFile::-1::1730176972::0::1::::<><>::
 walk 1 fast.wav::AudioStreamWAV::1321740985510827168::1730176972::1730192702::1::::<><>::
 walk 2 medium.wav::AudioStreamWAV::4908373691268548842::1730176972::1730192702::1::::<><>::
 walk 3 slow.wav::AudioStreamWAV::4760663491153150700::1730176972::1730192702::1::::<><>::
-::res://Assets/Music/Retro Sounds/audio effects retro/Animal and caracters/characters/attack/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/Animal and caracters/characters/attack/::1730192702
 attack variation.wav::AudioStreamWAV::3941610842599414468::1730176972::1730192702::1::::<><>::
 hit 1 fast attack.wav::AudioStreamWAV::4947215033051501973::1730176972::1730192702::1::::<><>::
 hit 2 medio attack.wav::AudioStreamWAV::7852685932277573914::1730176972::1730192702::1::::<><>::
 hit 3 strong attack.wav::AudioStreamWAV::453489174543884152::1730176972::1730192702::1::::<><>::
-::res://Assets/Music/Retro Sounds/audio effects retro/Animal and caracters/characters/Dialogs sounds/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/Animal and caracters/characters/Dialogs sounds/::1730192702
 Dialog voice 1.wav::AudioStreamWAV::3225126817987629014::1730176972::1730192702::1::::<><>::
 Dialog voice 2.wav::AudioStreamWAV::6849654353000898845::1730176972::1730192702::1::::<><>::
 Dialog voice 3.wav::AudioStreamWAV::5578633582375215622::1730176972::1730192702::1::::<><>::
 Dialog voice 4.wav::AudioStreamWAV::927970371758579687::1730176972::1730192702::1::::<><>::
 Dialog voice 5.wav::AudioStreamWAV::7491924679838789648::1730176972::1730192702::1::::<><>::
-::res://Assets/Music/Retro Sounds/audio effects retro/Animal and caracters/characters/walk/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/Animal and caracters/characters/walk/::1730192702
 i recommend to check the volume.txt::TextFile::-1::1730176972::0::1::::<><>::
 walk 1 fast.wav::AudioStreamWAV::2740178160857452358::1730176972::1730192702::1::::<><>::
 walk 2 medium.wav::AudioStreamWAV::7467248631736990992::1730176972::1730192702::1::::<><>::
 walk 3 slow.wav::AudioStreamWAV::5349416416663608169::1730176972::1730192702::1::::<><>::
-::res://Assets/Music/Retro Sounds/audio effects retro/atmosphere/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/atmosphere/::1730192702
 Atmosphere industrial.wav::AudioStreamWAV::1382079065383468421::1730176971::1730192702::1::::<><>::
 dive.wav::AudioStreamWAV::1543741809376457559::1730176972::1730192702::1::::<><>::
 horro atmosphere.wav::AudioStreamWAV::905636631701259641::1730176972::1730192702::1::::<><>::
@@ -579,7 +579,7 @@ tense atmosphere 1.wav::AudioStreamWAV::8779659228866546676::1730176971::1730192
 tense atmosphere 2.wav::AudioStreamWAV::664725769940115604::1730176972::1730192702::1::::<><>::
 tense atmosphere 3.wav::AudioStreamWAV::9026799128537444598::1730176971::1730192702::1::::<><>::
 tense atmosphere 4.wav::AudioStreamWAV::4032847755393608452::1730176972::1730192702::1::::<><>::
-::res://Assets/Music/Retro Sounds/audio effects retro/cinematics/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/cinematics/::1730192702
 animal going off plants.wav::AudioStreamWAV::3863586170428373226::1730176971::1730192702::1::::<><>::
 cinematic 1(no cut)(1).wav::AudioStreamWAV::2363245742435913356::1730176971::1730192702::1::::<><>::
 cinematic 1(no cut).wav::AudioStreamWAV::8110961274580887059::1730176971::1730192702::1::::<><>::
@@ -589,9 +589,9 @@ cinematic 2(no cut).wav::AudioStreamWAV::3365432769494454789::1730176971::173019
 cinematic 2.wav::AudioStreamWAV::1653487960855067639::1730176971::1730192702::1::::<><>::
 cinematic 3.wav::AudioStreamWAV::4072276665338057088::1730176971::1730192702::1::::<><>::
 explosion.wav::AudioStreamWAV::8131976126515235163::1730176971::1730192702::1::::<><>::
-::res://Assets/Music/Retro Sounds/audio effects retro/Extras/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/Extras/::1730192702
 select sound.wav::AudioStreamWAV::829043898468038785::1730176972::1730192702::1::::<><>::
-::res://Assets/Music/Retro Sounds/audio effects retro/Extras/can use for music/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/Extras/can use for music/::1730192702
 bassline 1.wav::AudioStreamWAV::5323558756233086217::1730176972::1730192702::1::::<><>::
 bassline 2(1).wav::AudioStreamWAV::1709456382701267034::1730176972::1730192702::1::::<><>::
 bassline 2.wav::AudioStreamWAV::1081517148893001601::1730176972::1730192702::1::::<><>::
@@ -608,20 +608,20 @@ kick.wav::AudioStreamWAV::3682146156988656024::1730176972::1730192702::1::::<><>
 sing 1.wav::AudioStreamWAV::2979972836967275112::1730176972::1730192702::1::::<><>::
 sing 2.wav::AudioStreamWAV::7827543446260520855::1730176972::1730192702::1::::<><>::
 sing 3.wav::AudioStreamWAV::1812399974432691030::1730176972::1730192702::1::::<><>::
-::res://Assets/Music/Retro Sounds/audio effects retro/Extras/idk/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/Extras/idk/::1730192702
 1.wav::AudioStreamWAV::7469351394499074658::1730176972::1730192702::1::::<><>::
 2.wav::AudioStreamWAV::4643344542324481300::1730176972::1730192702::1::::<><>::
 3.wav::AudioStreamWAV::5419685090053030973::1730176972::1730192702::1::::<><>::
 cool pigeon.wav::AudioStreamWAV::2218304922280706636::1730176972::1730192702::1::::<><>::
 embarrassed.wav::AudioStreamWAV::2959484676994095816::1730176972::1730192702::1::::<><>::
-::res://Assets/Music/Retro Sounds/audio effects retro/Extras/random/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/Extras/random/::1730192702
 1.wav::AudioStreamWAV::8011057278911818909::1730176972::1730192701::1::::<><>::
 2.wav::AudioStreamWAV::3672036371833363830::1730176972::1730192701::1::::<><>::
 3.wav::AudioStreamWAV::5702259003078953254::1730176972::1730192702::1::::<><>::
 zip.wav::AudioStreamWAV::7623959956033090793::1730176972::1730192702::1::::<><>::
-::res://Assets/Music/Retro Sounds/audio effects retro/hud/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/hud/::1730192702
 menu select.wav::AudioStreamWAV::8314993016142206214::1730176972::1730192702::1::::<><>::
-::res://Assets/Music/Retro Sounds/audio effects retro/Machines/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/Machines/::1730192702
 car sound.wav::AudioStreamWAV::4607893299949700117::1730176972::1730192702::1::::<><>::
 computer(turn off).wav::AudioStreamWAV::4267254268687748150::1730176972::1730192702::1::::<><>::
 computer(turn on).wav::AudioStreamWAV::5943336712663898429::1730176972::1730192702::1::::<><>::
@@ -633,13 +633,13 @@ machine stop 1.wav::AudioStreamWAV::7735219302457500561::1730176972::1730192702:
 machine stop 2.wav::AudioStreamWAV::3147003375535386140::1730176972::1730192702::1::::<><>::
 machine working.wav::AudioStreamWAV::3109945846715380944::1730176972::1730192702::1::::<><>::
 scan.wav::AudioStreamWAV::7063562637826774030::1730176972::1730192702::1::::<><>::
-::res://Assets/Music/Retro Sounds/audio effects retro/Machines/computers/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/Machines/computers/::1730192702
 buying machine.wav::AudioStreamWAV::3933109537373666078::1730176972::1730192702::1::::<><>::
 computer(turn off).wav::AudioStreamWAV::6984411990722217927::1730176972::1730192702::1::::<><>::
 computer(turn on).wav::AudioStreamWAV::2748174176046568820::1730176972::1730192702::1::::<><>::
 drone.wav::AudioStreamWAV::1154946095435143502::1730176972::1730192702::1::::<><>::
 scan.wav::AudioStreamWAV::412999984956855342::1730176972::1730192702::1::::<><>::
-::res://Assets/Music/Retro Sounds/audio effects retro/Machines/menchanicals/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/Machines/menchanicals/::1730192702
 air or hydro cilinder 1.wav::AudioStreamWAV::3877286126819901950::1730176972::1730192702::1::::<><>::
 air or hydro cilinder 2.wav::AudioStreamWAV::8013661620702160214::1730176972::1730192702::1::::<><>::
 car sound.wav::AudioStreamWAV::2590248624543488056::1730176972::1730192702::1::::<><>::
@@ -647,7 +647,7 @@ little engine.wav::AudioStreamWAV::6607424852213452462::1730176972::1730192702::
 machine stop 1.wav::AudioStreamWAV::5211189660585857594::1730176972::1730192702::1::::<><>::
 machine stop 2.wav::AudioStreamWAV::9160226381341199484::1730176972::1730192702::1::::<><>::
 machine working.wav::AudioStreamWAV::7329308420496995291::1730176972::1730192702::1::::<><>::
-::res://Assets/Music/Retro Sounds/audio effects retro/statistcs (progress on your game)/::1730176976
+::res://Assets/Music/Retro Sounds/audio effects retro/statistcs (progress on your game)/::1730192702
 boost(1).wav::AudioStreamWAV::449733272769658554::1730176971::1730192702::1::::<><>::
 boost.wav::AudioStreamWAV::2933857195527227697::1730176971::1730192702::1::::<><>::
 discovery new item(1).wav::AudioStreamWAV::8206484115887855686::1730176971::1730192702::1::::<><>::
@@ -665,7 +665,7 @@ score.wav::AudioStreamWAV::5199860059496401518::1730176971::1730192701::1::::<><
 upgrade(1).wav::AudioStreamWAV::738582058719820054::1730176971::1730192701::1::::<><>::
 upgrade.wav::AudioStreamWAV::3968558980869965328::1730176971::1730192701::1::::<><>::
 ::res://Assets/Particles/::1730176973
-::res://Assets/Particles/1/::1730176974
+::res://Assets/Particles/1/::1730192700
 1_0.png::CompressedTexture2D::1449509736510164064::1730176973::1730192700::1::::<><>::
 1_0_upside_down.png::CompressedTexture2D::763406103762629955::1730176973::1730192700::1::::<><>::
 1_1.png::CompressedTexture2D::6773958241412076507::1730176973::1730192700::1::::<><>::
@@ -682,7 +682,7 @@ upgrade.wav::AudioStreamWAV::3968558980869965328::1730176971::1730192701::1::::<
 1_12.png::CompressedTexture2D::6731472750494620366::1730176973::1730192700::1::::<><>::
 1_13.png::CompressedTexture2D::7713519946217035339::1730176973::1730192700::1::::<><>::
 1_14.png::CompressedTexture2D::918239048719532447::1730176973::1730192700::1::::<><>::
-::res://Assets/Particles/2/::1730176975
+::res://Assets/Particles/2/::1730192700
 1_0.png::CompressedTexture2D::125813674408259862::1730176973::1730192700::1::::<><>::
 1_1.png::CompressedTexture2D::4056592485579650228::1730176973::1730192700::1::::<><>::
 1_2.png::CompressedTexture2D::8650501402916143045::1730176973::1730192700::1::::<><>::
@@ -698,7 +698,7 @@ upgrade.wav::AudioStreamWAV::3968558980869965328::1730176971::1730192701::1::::<
 1_12.png::CompressedTexture2D::2794235706664802299::1730176973::1730192700::1::::<><>::
 1_13.png::CompressedTexture2D::7905029583724126860::1730176973::1730192700::1::::<><>::
 1_14.png::CompressedTexture2D::8081433014140232593::1730176973::1730192700::1::::<><>::
-::res://Assets/Particles/3/::1730176975
+::res://Assets/Particles/3/::1730192701
 1_0.png::CompressedTexture2D::7579455970847531528::1730176973::1730192700::1::::<><>::
 1_1.png::CompressedTexture2D::828321018396013954::1730176973::1730192700::1::::<><>::
 1_2.png::CompressedTexture2D::6875377218673334093::1730176973::1730192700::1::::<><>::
@@ -714,7 +714,7 @@ upgrade.wav::AudioStreamWAV::3968558980869965328::1730176971::1730192701::1::::<
 1_12.png::CompressedTexture2D::1913200808806898175::1730176973::1730192701::1::::<><>::
 1_13.png::CompressedTexture2D::877345932423573356::1730176973::1730192701::1::::<><>::
 1_14.png::CompressedTexture2D::1258787248619016726::1730176973::1730192701::1::::<><>::
-::res://Assets/Particles/4/::1730176975
+::res://Assets/Particles/4/::1730192701
 1_0.png::CompressedTexture2D::4949120774836762673::1730176973::1730192701::1::::<><>::
 1_1.png::CompressedTexture2D::7579181166004076821::1730176973::1730192701::1::::<><>::
 1_2.png::CompressedTexture2D::7236553784106778391::1730176973::1730192701::1::::<><>::
@@ -730,7 +730,7 @@ upgrade.wav::AudioStreamWAV::3968558980869965328::1730176971::1730192701::1::::<
 1_12.png::CompressedTexture2D::3792113609296827426::1730176973::1730192701::1::::<><>::
 1_13.png::CompressedTexture2D::5424462682386706646::1730176973::1730192701::1::::<><>::
 1_14.png::CompressedTexture2D::7867070319983985380::1730176973::1730192701::1::::<><>::
-::res://Assets/Particles/5/::1730176975
+::res://Assets/Particles/5/::1730192701
 1_0.png::CompressedTexture2D::7453888240263680428::1730176974::1730192701::1::::<><>::
 1_1.png::CompressedTexture2D::3501288257699375682::1730176974::1730192701::1::::<><>::
 1_2.png::CompressedTexture2D::8633593416477576774::1730176974::1730192701::1::::<><>::
@@ -746,7 +746,7 @@ upgrade.wav::AudioStreamWAV::3968558980869965328::1730176971::1730192701::1::::<
 1_12.png::CompressedTexture2D::5368536964775920656::1730176974::1730192701::1::::<><>::
 1_13.png::CompressedTexture2D::9003493198290430511::1730176973::1730192701::1::::<><>::
 1_14.png::CompressedTexture2D::6079379265253353633::1730176974::1730192701::1::::<><>::
-::res://Assets/Particles/6/::1730176975
+::res://Assets/Particles/6/::1730192701
 1_0.png::CompressedTexture2D::6123581299866912513::1730176973::1730192701::1::::<><>::
 1_1.png::CompressedTexture2D::3203074457455748153::1730176973::1730192701::1::::<><>::
 1_2.png::CompressedTexture2D::2783330278977632858::1730176973::1730192701::1::::<><>::
@@ -762,7 +762,7 @@ upgrade.wav::AudioStreamWAV::3968558980869965328::1730176971::1730192701::1::::<
 1_12.png::CompressedTexture2D::2284415522924946735::1730176973::1730192701::1::::<><>::
 1_13.png::CompressedTexture2D::531953766835817151::1730176973::1730192701::1::::<><>::
 1_14.png::CompressedTexture2D::3334634708646881268::1730176973::1730192701::1::::<><>::
-::res://Assets/Particles/7/::1730176975
+::res://Assets/Particles/7/::1730192701
 1_0.png::CompressedTexture2D::5129263427688004623::1730176973::1730192701::1::::<><>::
 1_1.png::CompressedTexture2D::6082157530105620429::1730176973::1730192701::1::::<><>::
 1_2.png::CompressedTexture2D::7960119560809026564::1730176973::1730192701::1::::<><>::
@@ -778,7 +778,7 @@ upgrade.wav::AudioStreamWAV::3968558980869965328::1730176971::1730192701::1::::<
 1_12.png::CompressedTexture2D::893646794116017272::1730176973::1730192701::1::::<><>::
 1_13.png::CompressedTexture2D::4014294417397989178::1730176973::1730192701::1::::<><>::
 1_14.png::CompressedTexture2D::8922386384584373293::1730176973::1730192701::1::::<><>::
-::res://Assets/Particles/8/::1730176975
+::res://Assets/Particles/8/::1730192701
 1_0.png::CompressedTexture2D::8941504055327489939::1730176973::1730192701::1::::<><>::
 1_1.png::CompressedTexture2D::5382787444832600623::1730176973::1730192701::1::::<><>::
 1_2.png::CompressedTexture2D::6016143347984873749::1730176973::1730192701::1::::<><>::
@@ -794,7 +794,7 @@ upgrade.wav::AudioStreamWAV::3968558980869965328::1730176971::1730192701::1::::<
 1_12.png::CompressedTexture2D::5104011896494906315::1730176973::1730192701::1::::<><>::
 1_13.png::CompressedTexture2D::6802117515449376223::1730176973::1730192701::1::::<><>::
 1_14.png::CompressedTexture2D::23735916983429995::1730176973::1730192701::1::::<><>::
-::res://Assets/Particles/9/::1730176975
+::res://Assets/Particles/9/::1730192701
 1_0.png::CompressedTexture2D::4912424325083832738::1730176973::1730192701::1::::<><>::
 1_1.png::CompressedTexture2D::9048263793758871133::1730176973::1730192701::1::::<><>::
 1_2.png::CompressedTexture2D::3401928229850224491::1730176973::1730192701::1::::<><>::
@@ -810,7 +810,7 @@ upgrade.wav::AudioStreamWAV::3968558980869965328::1730176971::1730192701::1::::<
 1_12.png::CompressedTexture2D::2327391188240023190::1730176972::1730192701::1::::<><>::
 1_13.png::CompressedTexture2D::8287085111230297289::1730176972::1730192701::1::::<><>::
 1_14.png::CompressedTexture2D::7356676861030679156::1730176972::1730192701::1::::<><>::
-::res://Assets/Particles/Mini_Effect_2D/::1730176975
+::res://Assets/Particles/Mini_Effect_2D/::1730192701
 Effect1.png::CompressedTexture2D::2533817710981637169::1730176972::1730192701::1::::<><>::
 Effect2.png::CompressedTexture2D::8765321519543869429::1730176972::1730192701::1::::<><>::
 Effect3.png::CompressedTexture2D::7207658438828295237::1730176972::1730192701::1::::<><>::
@@ -833,7 +833,7 @@ Impact_1.png::CompressedTexture2D::8740853677412386286::1730176972::1730192701::
 Impact_2.png::CompressedTexture2D::8095069877119960358::1730176972::1730192701::1::::<><>::
 Impact_3.png::CompressedTexture2D::235681666408316643::1730176972::1730192701::1::::<><>::
 ::res://Assets/star/::1730176974
-::res://Assets/star/star/::1730176975
+::res://Assets/star/star/::1730192701
 sprite_00.png::CompressedTexture2D::2401800708297650348::1730176974::1730192701::1::::<><>::
 sprite_01.png::CompressedTexture2D::7297541236641203026::1730176974::1730192701::1::::<><>::
 sprite_02.png::CompressedTexture2D::166123360076333251::1730176974::1730192701::1::::<><>::
@@ -844,7 +844,7 @@ sprite_06.png::CompressedTexture2D::8210784732283775563::1730176974::1730192701:
 sprite_07.png::CompressedTexture2D::2024803374960431978::1730176974::1730192701::1::::<><>::
 sprite_08.png::CompressedTexture2D::5934924274464630717::1730176974::1730192701::1::::<><>::
 sprite_09.png::CompressedTexture2D::4994874384712999682::1730176974::1730192701::1::::<><>::
-::res://Assets/star/star bar/::1730176975
+::res://Assets/star/star bar/::1730192701
 sprite_00.png::CompressedTexture2D::4185947290502935332::1730176974::1730192701::1::::<><>::
 sprite_01.png::CompressedTexture2D::8942232501303839163::1730176974::1730192701::1::::<><>::
 sprite_02.png::CompressedTexture2D::3867483223361284547::1730176974::1730192701::1::::<><>::
@@ -855,29 +855,29 @@ sprite_06.png::CompressedTexture2D::5713482711957084223::1730176974::1730192701:
 sprite_07.png::CompressedTexture2D::7168517631408914380::1730176974::1730192701::1::::<><>::
 sprite_08.png::CompressedTexture2D::7300734979763781897::1730176974::1730192701::1::::<><>::
 sprite_09.png::CompressedTexture2D::5738145446921337216::1730176974::1730192701::1::::<><>::
-::res://Assets/wood_set/::1730176975
+::res://Assets/wood_set/::1730192701
 1.png::CompressedTexture2D::7767752137755267582::1730176974::1730192701::1::::<><>::
 2.PNG::CompressedTexture2D::3359768915007272402::1730176974::1730192701::1::::<><>::
 3.png::CompressedTexture2D::1374798997706845470::1730176974::1730192701::1::::<><>::
 4.png::CompressedTexture2D::652032691630968022::1730176974::1730192701::1::::<><>::
 5.png::CompressedTexture2D::1074810948831363605::1730176974::1730192701::1::::<><>::
 cover.png::CompressedTexture2D::3845738460918477630::1730176974::1730192701::1::::<><>::
-::res://Assets/wood_set/box/::1730176975
+::res://Assets/wood_set/box/::1730192701
 1.png::CompressedTexture2D::8413509242551110187::1730176974::1730192701::1::::<><>::
 2.png::CompressedTexture2D::8495046100606189636::1730176974::1730192701::1::::<><>::
 3.png::CompressedTexture2D::7222191480470185300::1730176974::1730192701::1::::<><>::
 4.png::CompressedTexture2D::2256990866728236288::1730176974::1730192701::1::::<><>::
 5.png::CompressedTexture2D::2879116618089663398::1730176974::1730192701::1::::<><>::
 ::res://Assets/wood_set/ladder/::1730176974
-::res://Assets/wood_set/ladder/28x128/::1730176975
+::res://Assets/wood_set/ladder/28x128/::1730192701
 1.png::CompressedTexture2D::5072455740505428750::1730176974::1730192701::1::::<><>::
 2.png::CompressedTexture2D::3916215254065210507::1730176974::1730192701::1::::<><>::
-::res://Assets/wood_set/ladder/128x585/::1730176975
+::res://Assets/wood_set/ladder/128x585/::1730192701
 1.png::CompressedTexture2D::1260175705843900657::1730176974::1730192701::1::::<><>::
 2.png::CompressedTexture2D::5987952125761353992::1730176974::1730192701::1::::<><>::
 ::res://GUI/::1730176865
-::res://Scenes/::1730180058
-Main.tscn::PackedScene::7194586759163291237::1730179627::0::1::::<><>::uid://bx37p2de0dwgm::::res://Scenes/Player.tscn
+::res://Scenes/::1730193238
+Main.tscn::PackedScene::7194586759163291237::1730193238::0::1::::<><>::uid://bx37p2de0dwgm::::res://Scenes/Player.tscn
 Player.tscn::PackedScene::4060537818138780696::1730180058::0::1::::<><>::res://Scripts/Player.gd<>uid://1kw8i7c600wg::::res://Assets/Kings and Pigs/Sprites/01-King Human/Attack (78x58).png<>uid://dohiy8rd7cjxm::::res://Assets/Kings and Pigs/Sprites/01-King Human/Idle (78x58).png<>uid://ggydf13nn61h::::res://Assets/Kings and Pigs/Sprites/01-King Human/Door In (78x58).png<>uid://c221ro2fpk5s2::::res://Assets/Kings and Pigs/Sprites/01-King Human/Hit (78x58).png<>uid://sn0upismndmj::::res://Assets/Kings and Pigs/Sprites/01-King Human/Dead (78x58).png<>uid://dqd5ud37rnsns::::res://Assets/Kings and Pigs/Sprites/01-King Human/Jump (78x58).png<>uid://c5j00wy2rk72v::::res://Assets/Kings and Pigs/Sprites/01-King Human/Run (78x58).png
-::res://Scripts/::1730180025
-Player.gd::GDScript::-1::1730180025::0::1::::<>CharacterBody2D<>::
+::res://Scripts/::1730193141
+Player.gd::GDScript::-1::1730193141::0::1::::<>CharacterBody2D<>::
