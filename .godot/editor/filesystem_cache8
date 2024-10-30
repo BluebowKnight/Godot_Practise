@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1730250023
+::res://::1730265835
 icon.svg::CompressedTexture2D::8670099884159918493::1730176838::1730192701::1::::<><>::
 ::res://Assets/::1730192701
 clock.png::CompressedTexture2D::9165859444717417096::1730176968::1730192701::1::::<><>::
@@ -876,8 +876,8 @@ cover.png::CompressedTexture2D::3845738460918477630::1730176974::1730192701::1::
 1.png::CompressedTexture2D::1260175705843900657::1730176974::1730192701::1::::<><>::
 2.png::CompressedTexture2D::5987952125761353992::1730176974::1730192701::1::::<><>::
 ::res://GUI/::1730176865
-::res://Scenes/::1730193238
-Main.tscn::PackedScene::7194586759163291237::1730193238::0::1::::<><>::uid://bx37p2de0dwgm::::res://Scenes/Player.tscn
-Player.tscn::PackedScene::4060537818138780696::1730180058::0::1::::<><>::res://Scripts/Player.gd<>uid://1kw8i7c600wg::::res://Assets/Kings and Pigs/Sprites/01-King Human/Attack (78x58).png<>uid://dohiy8rd7cjxm::::res://Assets/Kings and Pigs/Sprites/01-King Human/Idle (78x58).png<>uid://ggydf13nn61h::::res://Assets/Kings and Pigs/Sprites/01-King Human/Door In (78x58).png<>uid://c221ro2fpk5s2::::res://Assets/Kings and Pigs/Sprites/01-King Human/Hit (78x58).png<>uid://sn0upismndmj::::res://Assets/Kings and Pigs/Sprites/01-King Human/Dead (78x58).png<>uid://dqd5ud37rnsns::::res://Assets/Kings and Pigs/Sprites/01-King Human/Jump (78x58).png<>uid://c5j00wy2rk72v::::res://Assets/Kings and Pigs/Sprites/01-King Human/Run (78x58).png
+::res://Scenes/::1730265815
+Main.tscn::PackedScene::7194586759163291237::1730265815::0::1::::<><>::uid://1bdvd6pt2ktd::::res://Assets/Kings and Pigs/Sprites/14-TileSets/Terrain (32x32).png<>uid://bx37p2de0dwgm::::res://Scenes/Player.tscn
+Player.tscn::PackedScene::4060537818138780696::1730265815::0::1::::<><>::res://Scripts/Player.gd<>uid://1kw8i7c600wg::::res://Assets/Kings and Pigs/Sprites/01-King Human/Attack (78x58).png<>uid://dohiy8rd7cjxm::::res://Assets/Kings and Pigs/Sprites/01-King Human/Idle (78x58).png<>uid://ggydf13nn61h::::res://Assets/Kings and Pigs/Sprites/01-King Human/Door In (78x58).png<>uid://c221ro2fpk5s2::::res://Assets/Kings and Pigs/Sprites/01-King Human/Hit (78x58).png<>uid://sn0upismndmj::::res://Assets/Kings and Pigs/Sprites/01-King Human/Dead (78x58).png<>uid://dqd5ud37rnsns::::res://Assets/Kings and Pigs/Sprites/01-King Human/Jump (78x58).png<>uid://c5j00wy2rk72v::::res://Assets/Kings and Pigs/Sprites/01-King Human/Run (78x58).png
 ::res://Scripts/::1730193141
 Player.gd::GDScript::-1::1730193141::0::1::::<>CharacterBody2D<>::
