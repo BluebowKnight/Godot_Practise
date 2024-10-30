@@ -1,6 +1,5 @@
-res://Scripts/Ladder.gd
-res://Scenes/Ladder.tscn
-res://Scripts/Global.gd
-res://Scripts/Player.gd
 res://Scenes/Main.tscn
+res://Scripts/Global.gd
 res://Scenes/Player.tscn
+res://Scenes/Ladder.tscn
+res://Scripts/Player.gd

@@ -15,6 +15,7 @@ dest_files=["res://.godot/imported/QuinqueFive.otf-dff8279c12b945456ecd8a0d505e6
 Rendering=null
 antialiasing=1
 generate_mipmaps=false
+disable_embedded_bitmaps=true
 multichannel_signed_distance_field=false
 msdf_pixel_range=8
 msdf_size=48

@@ -6,16 +6,13 @@ extends CharacterBody2D
 @export var gravity = 200.0
 @export var jump_height = -100
 
-var is_attacking = false
-var is_climbing = false
-
 func _physics_process(delta):
 	velocity.y += gravity * delta
 	horizontal_movement()
 	
 	move_and_slide()
 	
-	if !Global.is_attacking:
+	if !Global.is_attacking || !Global.is_climbing:
 		player_animations()
 
 func horizontal_movement():
@@ -47,9 +44,10 @@ func _input(event):
 		$AnimatedSprite2D.play("jump")
 		
 	if Global.is_climbing == true:
-		$AnimatedSprite2D.play("climb")
-		gravity = 100
-		velocity.y = -200
+		if Input.is_action_pressed("ui_up"):
+			$AnimatedSprite2D.play("climb")
+			gravity = 100
+			velocity.y = -200
 		
 	else:
 		gravity = 200
