@@ -1,7 +1,8 @@
-[gd_scene load_steps=5 format=3 uid="uid://dard17pp8gg8l"]
+[gd_scene load_steps=6 format=3 uid="uid://dard17pp8gg8l"]
 
 [ext_resource type="Texture2D" uid="uid://1bdvd6pt2ktd" path="res://Assets/Kings and Pigs/Sprites/14-TileSets/Terrain (32x32).png" id="1_1rraq"]
 [ext_resource type="PackedScene" uid="uid://bx37p2de0dwgm" path="res://Scenes/Player.tscn" id="1_aues4"]
+[ext_resource type="PackedScene" uid="uid://bh55b5v6qokgv" path="res://Scenes/Ladder.tscn" id="3_1taih"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_yjdpx"]
 texture = ExtResource("1_1rraq")
@@ -1013,3 +1014,6 @@ layer_0/tile_data = PackedInt32Array(65608, 393216, 15, 131144, 262144, 18, 1966
 
 [node name="Player" parent="." instance=ExtResource("1_aues4")]
 position = Vector2(649, 299)
+
+[node name="Ladder" parent="." instance=ExtResource("3_1taih")]
+position = Vector2(809, 577)
