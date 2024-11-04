@@ -1,9 +1,10 @@
-[gd_scene load_steps=8 format=3 uid="uid://c3tmksyxv0sbq"]
+[gd_scene load_steps=9 format=3 uid="uid://c3tmksyxv0sbq"]
 
 [ext_resource type="Texture2D" uid="uid://1bdvd6pt2ktd" path="res://Assets/Kings and Pigs/Sprites/14-TileSets/Terrain (32x32).png" id="1_3fjla"]
 [ext_resource type="Texture2D" uid="uid://sufk471liay6" path="res://Assets/Kings and Pigs/Sprites/14-TileSets/Decorations (32x32).png" id="2_kttw2"]
 [ext_resource type="PackedScene" uid="uid://bh55b5v6qokgv" path="res://Scenes/Ladder.tscn" id="3_bb33j"]
 [ext_resource type="PackedScene" uid="uid://bx37p2de0dwgm" path="res://Scenes/Player.tscn" id="4_e8dmv"]
+[ext_resource type="PackedScene" uid="uid://dovdj1moi7h6n" path="res://Scenes/Platform.tscn" id="5_spfiu"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_yjdpx"]
 texture = ExtResource("1_3fjla")
@@ -1116,6 +1117,20 @@ scale = Vector2(1, 0.753)
 position = Vector2(334, 152)
 scale = Vector2(1, 0.623)
 
+[node name="Platform" type="Node2D" parent="."]
+position = Vector2(510, 464)
+
+[node name="Platform" parent="Platform" instance=ExtResource("5_spfiu")]
+
+[node name="Platform2" parent="Platform" instance=ExtResource("5_spfiu")]
+position = Vector2(290, 0)
+movement_speed = 100.0
+movement_range = 57
+
+[node name="Platform3" parent="Platform" instance=ExtResource("5_spfiu")]
+position = Vector2(134, 0)
+movement_speed = 75.0
+movement_range = 57
+
 [node name="Player" parent="." instance=ExtResource("4_e8dmv")]
-visible = false
-position = Vector2(486, 384)
+position = Vector2(49, 623)

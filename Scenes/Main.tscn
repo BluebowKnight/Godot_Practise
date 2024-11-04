@@ -1117,5 +1117,4 @@ position = Vector2(334, 152)
 scale = Vector2(1, 0.623)
 
 [node name="Player" parent="." instance=ExtResource("1_aues4")]
-visible = false
-position = Vector2(486, 384)
+position = Vector2(52, 623)

@@ -21,12 +21,12 @@ func horizontal_movement():
 	
 #animation
 func player_animations():
-	if Input.is_action_pressed('ui_left') || Input.is_action_just_released('ui_jump'):
+	if Input.is_action_pressed('ui_left') && Global.is_jumping == false:
 		$AnimatedSprite2D.flip_h = true
 		$AnimatedSprite2D.play("run")
 		$CollisionShape2D.position.x = 7
 		
-	if Input.is_action_pressed('ui_right') || Input.is_action_just_released('ui_jump'):
+	if Input.is_action_pressed('ui_right') && Global.is_jumping == false:
 		$AnimatedSprite2D.flip_h = false
 		$AnimatedSprite2D.play("run")
 		$CollisionShape2D.position.x = -7
@@ -48,10 +48,12 @@ func _input(event):
 			$AnimatedSprite2D.play("climb")
 			gravity = 100
 			velocity.y = -200
+			Global.is_jumping = true
 		
 	else:
 		gravity = 200
 		Global.is_climbing = false
+		Global.is_jumping = false
 
 func _on_animated_sprite_2d_animation_finished():
 	Global.is_attacking = false # Replace with function body.
