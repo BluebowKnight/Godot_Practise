@@ -1,5 +1,3 @@
 res://Scenes/Main.tscn
-res://Scripts/Global.gd
-res://Scenes/Player.tscn
-res://Scenes/Ladder.tscn
-res://Scripts/Player.gd
+res://Scenes/Platform.tscn
+res://Scripts/Platform.gd
