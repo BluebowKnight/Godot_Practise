@@ -1,8 +1,5 @@
-res://Scenes/Platform.tscn
-res://Scripts/Platform.gd
-res://Scenes/Main_2.tscn
 res://Scenes/Main.tscn
 res://Scenes/Player.tscn
 res://Scenes/Ladder.tscn
-res://Scripts/Global.gd
-res://Scripts/Player.gd
+res://Scenes/Platform.tscn
+res://Scenes/Main_2.tscn
