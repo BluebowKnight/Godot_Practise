@@ -5,7 +5,7 @@
 [ext_resource type="Texture2D" uid="uid://sufk471liay6" path="res://Assets/Kings and Pigs/Sprites/14-TileSets/Decorations (32x32).png" id="2_anngs"]
 [ext_resource type="PackedScene" uid="uid://bh55b5v6qokgv" path="res://Scenes/Ladder.tscn" id="3_1taih"]
 
-[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_yjdpx"]
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_7ty3e"]
 texture = ExtResource("1_1rraq")
 2:2/0 = 0
 2:2/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
@@ -995,7 +995,7 @@ texture = ExtResource("1_1rraq")
 35:23/0 = 0
 35:23/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
 
-[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_hthvn"]
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_of632"]
 texture = ExtResource("2_anngs")
 2:2/0 = 0
 3:2/0 = 0
@@ -1070,8 +1070,8 @@ terrain_set_0/terrain_1/name = "Platform_Wall"
 terrain_set_0/terrain_1/color = Color(0.815887, 0, 0.310559, 1)
 terrain_set_0/terrain_2/name = "Platform_Floor"
 terrain_set_0/terrain_2/color = Color(0, 0.428, 0.998015, 1)
-sources/0 = SubResource("TileSetAtlasSource_yjdpx")
-sources/1 = SubResource("TileSetAtlasSource_hthvn")
+sources/0 = SubResource("TileSetAtlasSource_7ty3e")
+sources/1 = SubResource("TileSetAtlasSource_of632")
 
 [node name="Main" type="Node2D"]
 
