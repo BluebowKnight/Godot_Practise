@@ -1,11 +1,12 @@
-[gd_scene load_steps=10 format=3 uid="uid://c3tmksyxv0sbq"]
+[gd_scene load_steps=15 format=3 uid="uid://c3tmksyxv0sbq"]
 
 [ext_resource type="Texture2D" uid="uid://1bdvd6pt2ktd" path="res://Assets/Kings and Pigs/Sprites/14-TileSets/Terrain (32x32).png" id="1_3fjla"]
 [ext_resource type="Texture2D" uid="uid://sufk471liay6" path="res://Assets/Kings and Pigs/Sprites/14-TileSets/Decorations (32x32).png" id="2_kttw2"]
 [ext_resource type="PackedScene" uid="uid://bh55b5v6qokgv" path="res://Scenes/Ladder.tscn" id="3_bb33j"]
 [ext_resource type="PackedScene" uid="uid://bx37p2de0dwgm" path="res://Scenes/Player.tscn" id="4_e8dmv"]
 [ext_resource type="PackedScene" uid="uid://dovdj1moi7h6n" path="res://Scenes/Platform.tscn" id="5_spfiu"]
-[ext_resource type="PackedScene" uid="uid://crpev3bu7efrs" path="res://Scenes/Bomb.tscn" id="6_jx4uo"]
+[ext_resource type="PackedScene" uid="uid://cyr5qjrcomx4y" path="res://Scenes/Wall.tscn" id="6_3hf4m"]
+[ext_resource type="PackedScene" uid="uid://dbse1n6twn87j" path="res://Scenes/Bombspawner.tscn" id="7_eoffh"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_5ntvr"]
 texture = ExtResource("1_3fjla")
@@ -1075,6 +1076,50 @@ terrain_set_0/terrain_2/color = Color(0, 0.428, 0.998015, 1)
 sources/0 = SubResource("TileSetAtlasSource_5ntvr")
 sources/1 = SubResource("TileSetAtlasSource_hta4i")
 
+[sub_resource type="Curve2D" id="Curve2D_ip1ls"]
+_data = {
+"points": PackedVector2Array(0, 0, 0, 0, 1061, 116, 0, 0, 0, 0, 971, 116, 0, 0, 0, 0, 972, 247, 0, 0, 0, 0, 852, 247, 0, 0, 0, 0, 851, 499, 0, 0, 0, 0, 660, 499, 0, 0, 0, 0, 660, 622, 0, 0, 0, 0, 20, 623)
+}
+point_count = 8
+
+[sub_resource type="Animation" id="Animation_mpj45"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("PathFollow2D:progress_ratio")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [0.0]
+}
+
+[sub_resource type="Animation" id="Animation_6gvue"]
+resource_name = "bomb_movement"
+length = 15.0
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("PathFollow2D:progress_ratio")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 15),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [0.0, 1.0]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_stquy"]
+_data = {
+"RESET": SubResource("Animation_mpj45"),
+"bomb_movement": SubResource("Animation_6gvue")
+}
+
 [node name="Main" type="Node2D"]
 
 [node name="Background" type="TileMap" parent="."]
@@ -1096,7 +1141,7 @@ layer_2/name = "DecorationsLayer2"
 [node name="Platforms" type="Node2D" parent="."]
 
 [node name="Platform" parent="Platforms" instance=ExtResource("5_spfiu")]
-position = Vector2(816, 448)
+position = Vector2(594, 448)
 movement_range = 49
 
 [node name="Platform2" parent="Platforms" instance=ExtResource("5_spfiu")]
@@ -1125,5 +1170,24 @@ position = Vector2(94, 192)
 [node name="Player" parent="." instance=ExtResource("4_e8dmv")]
 position = Vector2(54, 625)
 
-[node name="Bomb" parent="." instance=ExtResource("6_jx4uo")]
-position = Vector2(727, 364)
+[node name="Wall" parent="." instance=ExtResource("6_3hf4m")]
+position = Vector2(0, 1)
+
+[node name="BombPath" type="Node2D" parent="."]
+
+[node name="Path2D" type="Path2D" parent="BombPath"]
+position = Vector2(18, 1)
+curve = SubResource("Curve2D_ip1ls")
+
+[node name="PathFollow2D" type="PathFollow2D" parent="BombPath/Path2D"]
+position = Vector2(1061, 116)
+rotation = 3.14159
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="BombPath/Path2D"]
+libraries = {
+"": SubResource("AnimationLibrary_stquy")
+}
+
+[node name="BombSpawner" parent="." instance=ExtResource("7_eoffh")]
+position = Vector2(1096, 117)
+scale = Vector2(-1, 1)
