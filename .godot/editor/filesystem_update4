@@ -1,5 +1,6 @@
 res://Scenes/Main_2.tscn
-res://Scenes/Ladder.tscn
 res://Scenes/Bombspawner.tscn
+res://Scenes/Ladder.tscn
 res://Scenes/Bomb.tscn
-res://Scripts/Bomb.gd
+res://Scenes/Cannon_Handler.tscn
+res://Scripts/CannonHandler.gd

@@ -1078,7 +1078,7 @@ sources/1 = SubResource("TileSetAtlasSource_hta4i")
 
 [sub_resource type="Curve2D" id="Curve2D_ip1ls"]
 _data = {
-"points": PackedVector2Array(0, 0, 0, 0, 1061, 116, 0, 0, 0, 0, 971, 116, 0, 0, 0, 0, 972, 247, 0, 0, 0, 0, 852, 247, 0, 0, 0, 0, 851, 499, 0, 0, 0, 0, 660, 499, 0, 0, 0, 0, 660, 622, 0, 0, 0, 0, 20, 623)
+"points": PackedVector2Array(0, 0, 0, 0, 1050, 116, 0, 0, 0, 0, 971, 116, 0, 0, 0, 0, 972, 247, 0, 0, 0, 0, 852, 247, 0, 0, 0, 0, 851, 499, 0, 0, 0, 0, 660, 499, 0, 0, 0, 0, 660, 622, 0, 0, 0, 0, 20, 623)
 }
 point_count = 8
 
@@ -1180,7 +1180,7 @@ position = Vector2(18, 1)
 curve = SubResource("Curve2D_ip1ls")
 
 [node name="PathFollow2D" type="PathFollow2D" parent="BombPath/Path2D"]
-position = Vector2(1061, 116)
+position = Vector2(1050, 116)
 rotation = 3.14159
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="BombPath/Path2D"]
@@ -1189,5 +1189,5 @@ libraries = {
 }
 
 [node name="BombSpawner" parent="." instance=ExtResource("7_eoffh")]
-position = Vector2(1096, 117)
+position = Vector2(1079, 117)
 scale = Vector2(-1, 1)

@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1730882788
+::res://::1730955316
 icon.svg::CompressedTexture2D::8670099884159918493::1730176838::1730869309::1::::<><>::
 README.md::TextFile::-1::1730277225::0::1::::<><>::
 ::res://Assets/::1730869309
@@ -877,18 +877,20 @@ cover.png::CompressedTexture2D::3845738460918477630::1730176974::1730869309::1::
 1.png::CompressedTexture2D::1260175705843900657::1730176974::1730869309::1::::<><>::
 2.png::CompressedTexture2D::5987952125761353992::1730176974::1730869309::1::::<><>::
 ::res://GUI/::1730176865
-::res://Scenes/::1730882301
-Bomb.tscn::PackedScene::5997299218336961224::1730869839::0::1::::<><>::res://Scripts/Bomb.gd<>uid://bmi3x00qiohuv::::res://Assets/Kings and Pigs/Sprites/09-Bomb/Boooooom (52x56).png<>uid://ccha35pmbi78h::::res://Assets/Kings and Pigs/Sprites/09-Bomb/Bomb On (52x56).png
-Bombspawner.tscn::PackedScene::7266899724488716085::1730882218::0::1::::<><>::uid://chcj1yvbhw63d::::res://Assets/Kings and Pigs/Sprites/10-Cannon/Shoot (44x28).png<>res://Scripts/Bombspawner.gd<>uid://01kyoh03sgx3::::res://Assets/Kings and Pigs/Sprites/10-Cannon/Idle.png
-Ladder.tscn::PackedScene::2941498826929858457::1730882218::0::1::::<><>::res://Scripts/Ladder.gd<>uid://bv2bq08s304eh::::res://Assets/wood_set/ladder/28x128/2.png
+::res://Scenes/::1730955242
+Bomb.tscn::PackedScene::5997299218336961224::1730955023::0::1::::<><>::res://Scripts/Bomb.gd<>uid://bmi3x00qiohuv::::res://Assets/Kings and Pigs/Sprites/09-Bomb/Boooooom (52x56).png<>uid://ccha35pmbi78h::::res://Assets/Kings and Pigs/Sprites/09-Bomb/Bomb On (52x56).png
+Bombspawner.tscn::PackedScene::7266899724488716085::1730955098::0::1::::<><>::uid://chcj1yvbhw63d::::res://Assets/Kings and Pigs/Sprites/10-Cannon/Shoot (44x28).png<>res://Scripts/Bombspawner.gd<>uid://01kyoh03sgx3::::res://Assets/Kings and Pigs/Sprites/10-Cannon/Idle.png<>uid://31e35btao0f6::::res://Scenes/Cannon_Handler.tscn
+Cannon_Handler.tscn::PackedScene::2019255891780025021::1730955023::0::1::::<><>::res://Scripts/CannonHandler.gd<>uid://cgq1sw7aap4hc::::res://Assets/Kings and Pigs/Sprites/07-Pig With a Match/Match On (26x18).png<>uid://dfqi331eywtk4::::res://Assets/Kings and Pigs/Sprites/07-Pig With a Match/Lighting the Match (26x18).png<>uid://bhb4a6t31dmps::::res://Assets/Kings and Pigs/Sprites/13-Dialogue Boxes/Boom In (24x8).png<>uid://5pjpsc6qdo6x::::res://Assets/Kings and Pigs/Sprites/13-Dialogue Boxes/Loser In (24x8).png<>uid://c1s3j136sw08j::::res://Assets/Kings and Pigs/Sprites/13-Dialogue Boxes/WTF In (24x8).png
+Ladder.tscn::PackedScene::2941498826929858457::1730955023::0::1::::<><>::res://Scripts/Ladder.gd<>uid://bv2bq08s304eh::::res://Assets/wood_set/ladder/28x128/2.png
 Main.tscn::PackedScene::7194586759163291237::1730869258::0::1::::<><>::uid://1bdvd6pt2ktd::::res://Assets/Kings and Pigs/Sprites/14-TileSets/Terrain (32x32).png<>uid://bx37p2de0dwgm::::res://Scenes/Player.tscn<>uid://sufk471liay6::::res://Assets/Kings and Pigs/Sprites/14-TileSets/Decorations (32x32).png<>uid://bh55b5v6qokgv::::res://Scenes/Ladder.tscn
-Main_2.tscn::PackedScene::6778099612000180978::1730882301::0::1::::<><>::uid://1bdvd6pt2ktd::::res://Assets/Kings and Pigs/Sprites/14-TileSets/Terrain (32x32).png<>uid://sufk471liay6::::res://Assets/Kings and Pigs/Sprites/14-TileSets/Decorations (32x32).png<>uid://bh55b5v6qokgv::::res://Scenes/Ladder.tscn<>uid://bx37p2de0dwgm::::res://Scenes/Player.tscn<>uid://dovdj1moi7h6n::::res://Scenes/Platform.tscn<>uid://cyr5qjrcomx4y::::res://Scenes/Wall.tscn<>uid://dbse1n6twn87j::::res://Scenes/Bombspawner.tscn
+Main_2.tscn::PackedScene::6778099612000180978::1730955242::0::1::::<><>::uid://1bdvd6pt2ktd::::res://Assets/Kings and Pigs/Sprites/14-TileSets/Terrain (32x32).png<>uid://sufk471liay6::::res://Assets/Kings and Pigs/Sprites/14-TileSets/Decorations (32x32).png<>uid://bh55b5v6qokgv::::res://Scenes/Ladder.tscn<>uid://bx37p2de0dwgm::::res://Scenes/Player.tscn<>uid://dovdj1moi7h6n::::res://Scenes/Platform.tscn<>uid://cyr5qjrcomx4y::::res://Scenes/Wall.tscn<>uid://dbse1n6twn87j::::res://Scenes/Bombspawner.tscn
 Platform.tscn::PackedScene::8185457402763265543::1730791669::0::1::::<><>::uid://1bdvd6pt2ktd::::res://Assets/Kings and Pigs/Sprites/14-TileSets/Terrain (32x32).png<>res://Scripts/Platform.gd<>uid://sufk471liay6::::res://Assets/Kings and Pigs/Sprites/14-TileSets/Decorations (32x32).png
 Player.tscn::PackedScene::4060537818138780696::1730791669::0::1::::<><>::res://Scripts/Player.gd<>uid://1kw8i7c600wg::::res://Assets/Kings and Pigs/Sprites/01-King Human/Attack (78x58).png<>uid://dohiy8rd7cjxm::::res://Assets/Kings and Pigs/Sprites/01-King Human/Idle (78x58).png<>uid://ggydf13nn61h::::res://Assets/Kings and Pigs/Sprites/01-King Human/Door In (78x58).png<>uid://c221ro2fpk5s2::::res://Assets/Kings and Pigs/Sprites/01-King Human/Hit (78x58).png<>uid://sn0upismndmj::::res://Assets/Kings and Pigs/Sprites/01-King Human/Dead (78x58).png<>uid://dqd5ud37rnsns::::res://Assets/Kings and Pigs/Sprites/01-King Human/Jump (78x58).png<>uid://c5j00wy2rk72v::::res://Assets/Kings and Pigs/Sprites/01-King Human/Run (78x58).png
 Wall.tscn::PackedScene::6494318618085372942::1730869839::0::1::::<><>::
-::res://Scripts/::1730881443
-Bomb.gd::GDScript::-1::1730881025::0::1::::<>Area2D<>::
+::res://Scripts/::1730954788
+Bomb.gd::GDScript::-1::1730883365::0::1::::<>Area2D<>::
 Bombspawner.gd::GDScript::-1::1730881443::0::1::::<>Node2D<>::
+CannonHandler.gd::GDScript::-1::1730954788::0::1::::<>Node2D<>::
 Global.gd::GDScript::-1::1730880843::0::1::::<>Node<>::
 Ladder.gd::GDScript::-1::1730276908::0::1::::<>Area2D<>::
 Platform.gd::GDScript::-1::1730707808::0::1::::<>Area2D<>::

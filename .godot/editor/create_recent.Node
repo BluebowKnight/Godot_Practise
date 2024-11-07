@@ -1,9 +1,9 @@
+Timer
+AnimatedSprite2D
+Node2D
 AnimationPlayer
 PathFollow2D
-Node2D
 Path2D
-AnimatedSprite2D
-Timer
 CollisionShape2D
 StaticBody2D
 Area2D
