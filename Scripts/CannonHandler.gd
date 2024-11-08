@@ -3,7 +3,7 @@ extends Node2D
 func _ready():
 	$Body.play("matching")
 
-func _process(delta):
+func _process(_delta):
 	$Timer.wait_time = randi_range(1,10)
 	
 	if Global.is_bomb_moving == true:

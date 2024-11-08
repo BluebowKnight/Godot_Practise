@@ -285,4 +285,13 @@ shape = SubResource("RectangleShape2D_ocx7a")
 sprite_frames = SubResource("SpriteFrames_762uw")
 animation = &"jump"
 
+[node name="Camera2D" type="Camera2D" parent="."]
+zoom = Vector2(2, 2)
+limit_left = 0
+limit_top = 0
+limit_right = 1152
+limit_bottom = 648
+position_smoothing_enabled = true
+rotation_smoothing_enabled = true
+
 [connection signal="animation_finished" from="AnimatedSprite2D" to="." method="_on_animated_sprite_2d_animation_finished"]

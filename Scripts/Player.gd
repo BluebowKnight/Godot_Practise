@@ -6,6 +6,9 @@ extends CharacterBody2D
 @export var gravity = 200.0
 @export var jump_height = -100
 
+var last_direction = 0
+var current_direction = 0
+
 func _physics_process(delta):
 	velocity.y += gravity * delta
 	horizontal_movement()
